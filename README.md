@@ -1,6 +1,6 @@
 # React Projects
 
-These are some basic React projects created by *me.
+These are some basic React projects created by me.
 
 Feel free to explore and learn from them!
 
