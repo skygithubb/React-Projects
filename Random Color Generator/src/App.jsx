@@ -1,9 +1,9 @@
-function App() {
-  const [count, setCount] = useState(0)
+import RandomColor from "./components/"
 
+function App() {
   return (
     <div>
-
+      <RandomColor />
     </div>
   )
 }
