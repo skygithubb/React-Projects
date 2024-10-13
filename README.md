@@ -7,6 +7,7 @@ Feel free to explore and learn from them!
 ## Projects Included:
 - Project 1: Accordian Project.
 - Project 2: Random Color Generator.
+- Project 3: Star Rating.
 
 ## How to Run
 1. Clone this repository.
