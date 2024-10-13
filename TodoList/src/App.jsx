@@ -43,7 +43,7 @@ function App() {
   }, [])
 
   return (
-    <main className="min-h-screen bg-gray-100 p-4 sm:p-6 md:p-8 lg:p-10">
+    <main className="min-h-screen bg-black p-4 sm:p-6 md:p-8 lg:p-10">
       <TodoInput
         todoValue={todoValue}
         setTodoValue={setTodoValue}
